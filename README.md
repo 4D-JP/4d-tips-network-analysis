@@ -23,3 +23,7 @@
 ``SAMPLE.4dbase``を閉じ，``UNIT.4dbase``コンポーネントをインストールしてから，クライアント/サーバーでアプリケーションを開き直します。コンポーネントがインストールされている場合は，自動テスト実行の画面が表示されます。
 
 <img width="717" alt="2017-08-10 17 59 03" src="https://user-images.githubusercontent.com/10509075/29162859-a1471eec-7df5-11e7-9fad-28de42ec3ffd.png">
+
+やはり，ローカルではあまり速度に差がないかもしれません。
+
+<img width="717" alt="2017-08-10 17 59 44" src="https://user-images.githubusercontent.com/10509075/29162910-baeb575a-7df5-11e7-9e1f-3acf87362021.png">
